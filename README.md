@@ -8,7 +8,7 @@ If you need help, call me:
 * SublimeText or other file editor
 * Local database or in a storage service ( like Amazon, Heroku and etc... )
 * I am considering that you have a Database with a least on table with duplicated data
-* 
+
 ### Installation
 
 Download the project, and inside the main folder and open it copy and paste in your terminal or SGBD
